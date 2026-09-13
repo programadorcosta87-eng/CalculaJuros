@@ -25,5 +25,6 @@ Calculadora moderna de juros simples e compostos com simulação de empréstimos
 - Vite 6
 - Progressive Web App (PWA)
 
+---
   
 Desenvolvido por [Adilson Costa](https://github.com/programadorcosta87-eng)
