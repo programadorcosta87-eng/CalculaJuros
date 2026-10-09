@@ -2,7 +2,6 @@
 
 Calculadora moderna de juros simples e compostos com simulação de empréstimos.
 
-🔗 Acesse o projeto: https://calcula-juros.netlify.app/
 
 ---
 
